@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- crDroid additions -->
+
   <project path="android" name="PersonalBuild/android" remote="crdroid" />
 
   <project path="art" name="PersonalBuild/android_art" remote="crdroid" />
